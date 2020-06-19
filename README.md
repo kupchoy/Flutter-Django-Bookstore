@@ -5,10 +5,10 @@ to purchase the books by using Stripe.  The app uses Redux to manage the state a
 shared_preferences to store the users information.
 
 ### Bookstore Grid layout of books
-![](C:\scr_flutter\apps\e_comm\flutter_bookstore_sm.jpg "bookstore")
+![](https://github.com/kupchoy/Flutter-Django-Bookstore/blob/master/flutter_bookstore_sm.jpg "bookstore")
 
 ### Book Detail View
-![](C:\scr_flutter\apps\e_comm\flutter_book_detail_sm.jpg "detail")
+![](https://github.com/kupchoy/Flutter-Django-Bookstore/blob/master/flutter_book_detail_sm.jpg "detail")
 
 ### Shopping Cart
-![](C:\scr_flutter\apps\e_comm\flutter_shopping_cart_sm.jpg "shopping_cart")
+![](https://github.com/kupchoy/Flutter-Django-Bookstore/blob/master/flutter_shopping_cart_sm.jpg "shopping_cart")
